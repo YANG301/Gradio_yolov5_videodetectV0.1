@@ -4,3 +4,5 @@
 - 数据库文件
 - 项目配置文件(mysql,minio)
 - pip库文件
+
+git test
